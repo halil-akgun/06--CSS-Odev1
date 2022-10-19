@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: rgb(209, 138, 6);
+}
+
+.img {
+    width: 333px;
+}
+
+.table {
+    margin: auto;
+}
+
+/* yorum :) */
